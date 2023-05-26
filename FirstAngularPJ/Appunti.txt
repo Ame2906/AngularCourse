@@ -1,0 +1,2 @@
+Creare un componente tramite cli
+    - ng generate component nome-componente
